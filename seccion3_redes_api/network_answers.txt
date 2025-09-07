@@ -1,0 +1,10 @@
+HTTP (Hypertext Transfer Protocol) es el protocolo fundamental de la
+web que permite a los clientes (navegadores) solicitar y recibir recursos, como
+páginas HTML, de los servidores.
+El puerto 80 se usa para HTTP, que transmite datos
+en texto plano, mientras que el puerto 443 se usa para HTTPS (HTTP Seguro).
+La diferencia crucial es que HTTPS utiliza TLS (Transport Layer Security) para
+cifrar la comunicación.
+TLS es vital porque garantiza la confidencialidad,
+integridad y autenticación de los datos, protegiendo la información sensible
+(como contraseñas o datos bancarios) de ser interceptada o manipulada por terceros.

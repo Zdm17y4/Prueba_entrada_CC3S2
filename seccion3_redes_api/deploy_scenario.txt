@@ -1,0 +1,21 @@
+En un flujo de trabajo moderno de desarrollo de software, la ruta mínima desde código hasta
+despliegue suele dividirse en tres pasos esenciales: código, pruebas y despliegue.
+
+El primer paso es el código. Aquí los desarrolladores escriben y versionan las
+funcionalidades en un repositorio centralizado como GitHub. Este punto es crucial,
+porque el control de versiones permite colaborar en equipo, revisar cambios y
+mantener un historial claro de la evolución del proyecto.
+
+El segundo paso son las pruebas. Antes de que el código avance, debe verificarse
+que cumple con los requisitos y que no rompe funcionalidades existentes. Una herramienta
+ampliamente usada es pytest, que facilita ejecutar pruebas unitarias y generar reportes claros.
+Automatizar las pruebas en un pipeline garantiza que cada cambio pase por un filtro de
+calidad mínimo antes de seguir adelante.
+
+Finalmente, está el despliegue. Aquí el software probado se lleva a un entorno donde usuarios
+o clientes pueden interactuar con él. Una herramienta práctica para el despliegue continuo es
+Docker, que permite empaquetar la aplicación en contenedores portables y reproducibles, asegurando
+que el entorno de ejecución sea consistente en desarrollo, pruebas y producción.
+
+Este flujo mínimo —código en GitHub, pruebas con pytest y despliegue con Docker— asegura simplicidad,
+trazabilidad y confianza en cada entrega.

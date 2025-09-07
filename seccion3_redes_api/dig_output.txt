@@ -1,0 +1,42 @@
+Server:		10.255.255.254
+Address:	10.255.255.254#53
+
+Non-authoritative answer:
+Name:	example.com
+Address: 23.215.0.136
+Name:	example.com
+Address: 23.220.75.245
+Name:	example.com
+Address: 23.220.75.232
+Name:	example.com
+Address: 23.192.228.84
+Name:	example.com
+Address: 23.192.228.80
+Name:	example.com
+Address: 23.215.0.138
+
+Server:		10.255.255.254
+Address:	10.255.255.254#53
+
+Non-authoritative answer:
+Name:	example.com
+Address: 2600:1408:ec00:36::1736:7f31
+Name:	example.com
+Address: 2600:1408:ec00:36::1736:7f24
+Name:	example.com
+Address: 2600:1406:5e00:6::17ce:bc1b
+Name:	example.com
+Address: 2600:1406:5e00:6::17ce:bc12
+Name:	example.com
+Address: 2600:1406:bc00:53::b81e:94c8
+Name:	example.com
+Address: 2600:1406:bc00:53::b81e:94ce
+
+Server:		10.255.255.254
+Address:	10.255.255.254#53
+
+Non-authoritative answer:
+example.com	mail exchanger = 0 .
+
+Authoritative answers can be found from:
+
