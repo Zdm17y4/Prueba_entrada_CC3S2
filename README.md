@@ -1,2 +1,2 @@
 # Prueba_entrada_CC3S2
-Prueba de entrada del curso Desarrollo de Software
+Solución a la prueba de entrada del curso Desarrollo de Software
