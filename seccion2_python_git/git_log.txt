@@ -1,1 +1,10 @@
-# Genera este archivo con: git log --oneline --graph --decorate --all
+* aa56d9b (feature/summarize-logic) fix: Corrige falta de codigo del curso en README
+* bab471e feat: Implementa la logica de summarize y tests iniciales
+* 125b351 (HEAD -> main) docs: Detallar descripción del proyecto en README
+| * 9dc28f7 (fix/correccion-rapida) fix: Corrige falta de codigo del curso en README
+|/  
+* cb93ab8 (origin/main, origin/HEAD) feat: Agregar avances de la seccion2 python git
+* d73332c Agregar estructura de la seccion3 redes api
+* 20ef9dd Agregar instrucciones de la prueba de entrada
+* b1dc50e feat: Agregar script para generar reportes de red
+* 2ad29fe Initial commit
