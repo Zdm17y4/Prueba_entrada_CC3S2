@@ -1,0 +1,18 @@
+== A ==
+example.com.		82	IN	A	23.220.75.245
+example.com.		82	IN	A	23.215.0.136
+example.com.		82	IN	A	23.192.228.80
+example.com.		82	IN	A	23.192.228.84
+example.com.		82	IN	A	23.220.75.232
+example.com.		82	IN	A	23.215.0.138
+== AAAA ==
+example.com.		183	IN	AAAA	2600:1406:bc00:53::b81e:94c8
+example.com.		183	IN	AAAA	2600:1406:5e00:6::17ce:bc1b
+example.com.		183	IN	AAAA	2600:1406:5e00:6::17ce:bc12
+example.com.		183	IN	AAAA	2600:1406:bc00:53::b81e:94ce
+example.com.		183	IN	AAAA	2600:1408:ec00:36::1736:7f31
+example.com.		183	IN	AAAA	2600:1408:ec00:36::1736:7f24
+== MX ==
+example.com.		5392	IN	MX	0 .
+
+Nota: Un TTL alto hay menos consultas y eficiencia en caché, pero cambios tardan más en propagarse en toda la red. En un TTL bajo hay cambios rápidos pero más consultas y carga en servidores.
