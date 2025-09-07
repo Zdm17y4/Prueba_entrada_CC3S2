@@ -1,9 +1,3 @@
-# Implementa la función summarize y el CLI.
-# Requisitos:
-# - summarize(nums) -> dict con claves: count, sum, avg
-# - Valida que nums sea lista no vacía y elementos numéricos (acepta strings convertibles a float).
-# - CLI: python -m app "1,2,3" imprime: sum=6.0 avg=2.0 count=3
-
 def summarize(nums):
 
     if not nums:

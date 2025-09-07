@@ -2,6 +2,7 @@ import pytest
 from app.app import summarize
 
 @pytest.fixture
+
 def sample():
     return ["1", "2", "3"]
 
